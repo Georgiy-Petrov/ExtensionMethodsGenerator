@@ -15,9 +15,8 @@
         <Authors/>
         <Description>ExtensionMethodsSourceGenerator is a Roslyn-based source generator that automatically produces extension methods from classes marked with the [ToExtensionMethod] attribute. By scanning your code for public/internal static methods that have at least one parameter, it generates .g.cs files containing the corresponding extension methods. This allows you to call those methods in a more fluent, extension-like syntax without manually duplicating code.</Description>
         <RepositoryUrl>https://github.com/Georgiy-Petrov/ExtensionMethodsGenerator</RepositoryUrl>
-        <PackageIcon>helmet.png</PackageIcon>
         <PackageReadmeFile>Readme.md</PackageReadmeFile>
-        <PackageTags>Fluent, Generator, Builder</PackageTags>
+        <PackageTags>Generator, ExtensionMethods</PackageTags>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Version>1.0.0</Version>
     </PropertyGroup>

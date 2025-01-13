@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using ExtensionMethodsGenerator.HelpersForCache;
 using Microsoft.CodeAnalysis;
-using StepwiseBuilderGenerator.HelpersForCache;
 
 namespace ExtensionMethodsGenerator;
 

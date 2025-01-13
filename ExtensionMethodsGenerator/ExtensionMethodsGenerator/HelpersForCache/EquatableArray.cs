@@ -2,9 +2,8 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.Immutable;
-using ExtensionMethodsGenerator.HelpersForCache;
 
-namespace StepwiseBuilderGenerator.HelpersForCache;
+namespace ExtensionMethodsGenerator.HelpersForCache;
 
 /// <summary>
 /// An immutable, equatable array. This is equivalent to <see cref="Array{T}"/> but with value equality support.
